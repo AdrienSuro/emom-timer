@@ -1,0 +1,7 @@
+{
+  "name": "EMOM Timer",
+  "description": "A sleek, dark-themed EMOM (Every Minute on the Minute) timer designed for high-intensity interval training. Features haptic feedback and precise acoustic signaling.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
